@@ -1,6 +1,7 @@
 # React Frontend for Web Scraper
 
 ## Assumptions
+- CSS Selector for scraping data are stored directly in code for simple project implementation. In future for complex proejct we will have to move it to rails models.
 - Correct security to be implemented with a separate Node Backend handling API KEYs instead of this code.
 - As of now a basic security is implemened by directly reading the API KEY due to time constraint on interview submission.
 - Tests are written only for ROR Backend and not for this React App.
