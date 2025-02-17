@@ -13,9 +13,6 @@
 ## Runnig the app
 - `npm start` will start the app on `http://localhost:3001` 
 
-## Production Build
-- Do `npm run build` to create production build.
-
 ## Using the app
 - On the main page, it will list all the existing products.
 - Click on `Fetch Product` menu at the top to visit the form to add a new product.
